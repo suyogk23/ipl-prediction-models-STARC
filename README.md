@@ -17,4 +17,9 @@ adam
 
 Multiple Layers Used
 
+######
+TO DO: 
+>FRONT END
+>ADDED FEATURES AND IMPROVEMENTS
+
 ####self ref-update
