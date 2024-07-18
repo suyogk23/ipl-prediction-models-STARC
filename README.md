@@ -1,7 +1,7 @@
 # ipl-prediction-models-STARC
-ipl prediction models tested to find which one is best, TS deeplearning model gives highest accuracy. TimeSeries models also tested-gives poor performance.
+ipl score forecasting models tested to find optimal performance.
 
-Access TS DeepLearning model in file: 'tensorFlow_ipl.ipynb'
+Access Time Series model in file: 'tensorFlow_ipl.ipynb'
 
 TimeSeries Models:
 ARIMA
@@ -15,7 +15,7 @@ mse
 opimiser: 
 adam
 
-Multiple Layers Used
+
 
 
 
